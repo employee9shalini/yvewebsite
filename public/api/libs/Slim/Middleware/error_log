@@ -1,0 +1,10 @@
+[17-May-2015 02:17:33 America/Chicago] PHP Fatal error:  Class 'Slim\Middleware' not found in /home1/agicent/public_html/development/chabu/api/libs/Slim/Middleware/PrettyExceptions.php on line 46
+[17-May-2015 03:51:28 America/Chicago] PHP Fatal error:  Class 'Slim\Middleware' not found in /home1/agicent/public_html/development/chabu/api/libs/Slim/Middleware/MethodOverride.php on line 50
+[17-May-2015 05:33:21 America/Chicago] PHP Fatal error:  Class 'Slim\Middleware' not found in /home1/agicent/public_html/development/chabu/api/libs/Slim/Middleware/Flash.php on line 48
+[17-May-2015 08:56:55 America/Chicago] PHP Fatal error:  Class 'Slim\Middleware' not found in /home1/agicent/public_html/development/chabu/api/libs/Slim/Middleware/ContentTypes.php on line 49
+[17-May-2015 11:23:48 America/Chicago] PHP Fatal error:  Class 'Slim\Middleware' not found in /home1/agicent/public_html/development/chabu/api/libs/Slim/Middleware/SessionCookie.php on line 58
+[08-Jun-2015 04:57:23 America/Chicago] PHP Fatal error:  Class 'Slim\Middleware' not found in /home1/agicent/public_html/development/chabu/api/libs/Slim/Middleware/ContentTypes.php on line 49
+[19-Aug-2015 03:32:29 America/Chicago] PHP Fatal error:  Class 'Slim\Middleware' not found in /home1/agicent/public_html/development/chabu/api/libs/Slim/Middleware/MethodOverride.php on line 50
+[21-Aug-2015 22:26:49 America/Chicago] PHP Fatal error:  Class 'Slim\Middleware' not found in /home1/agicent/public_html/development/chabu/api/libs/Slim/Middleware/PrettyExceptions.php on line 46
+[23-Aug-2015 03:15:53 America/Chicago] PHP Fatal error:  Class 'Slim\Middleware' not found in /home1/agicent/public_html/development/chabu/api/libs/Slim/Middleware/Flash.php on line 48
+[23-Aug-2015 13:33:07 America/Chicago] PHP Fatal error:  Class 'Slim\Middleware' not found in /home1/agicent/public_html/development/chabu/api/libs/Slim/Middleware/ContentTypes.php on line 49

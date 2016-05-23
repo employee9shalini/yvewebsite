@@ -1,0 +1,18 @@
+
+/* Write your custom CSS here */
+
+
+
+.logo-box img {
+    width: 130px!important;
+}
+.u_icon > img {
+    width: 24px;
+}
+.a_icon > img {
+    width: 40px!important;
+}
+#activeUsers {
+    float: right;
+    margin-top: -26px;
+}

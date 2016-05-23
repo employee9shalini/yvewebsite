@@ -1,0 +1,1 @@
+[15-Jun-2015 15:10:19 America/Chicago] PHP Fatal error:  Class 'Slim\Helper\Set' not found in /home1/agicent/public_html/development/chabu/api/libs/Slim/Http/Cookies.php on line 36
